@@ -5,7 +5,7 @@
           </pre>
      </td>
   <td align="center">
-     <a target="blank" align="center" href="https://geovanemt.github.io/Portfolio/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" height="200px">
+     <a align="center" href="https://geovanemt.github.io/Portfolio/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" height="200px" target="_blank">
     <h3>Web-Portfolio</h3>
     <h5>Clique na imagem</h5></a>
      </td>
