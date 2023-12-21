@@ -85,14 +85,6 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJs icon"/><br>
-      <sub>
-        <b>
-          <pre>React Native</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
       <sub>
         <b>
