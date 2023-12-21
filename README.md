@@ -84,6 +84,14 @@
         </b>
       </sub>
     </td>
+  <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySql icon"/><br>
+      <sub>
+        <b>
+          <pre>MySql</pre>
+        </b>
+      </sub>
+    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
       <sub>
@@ -143,14 +151,7 @@
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySql icon"/><br>
-      <sub>
-        <b>
-          <pre>MySql</pre>
-        </b>
-      </sub>
-    </td>
+    
 </table>
 
 ---
